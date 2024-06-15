@@ -15,6 +15,7 @@ Currently, two official plugins are available:
 ```
 install node.js
 ```
+<a href="https://nodejs.org/en">Download Link</a>
 
 ## step 2:
 ```
